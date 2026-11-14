@@ -1,0 +1,8 @@
+.venv/
+.vscode/.venv/
+__pycache__/
+*.py[cod]
+novacare.db
+*.db
+.env
+.vscode/
